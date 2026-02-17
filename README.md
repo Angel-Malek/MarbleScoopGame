@@ -1,6 +1,6 @@
 # MarbleScooper
 
-A tiny Tkinter “scoop” game with a custom spoon sprite and randomized 5-second marble-roll audio slices.
+A tiny project: “scoop” game with a custom spoon sprite and randomized 5-second marble-roll audio slices.
 you can download runnable app here: https://realanami.itch.io/marble-scoop-game
 
 ## Run (source)
